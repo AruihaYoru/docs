@@ -1,5 +1,7 @@
 # Astro Starter Kit: Basics
 
+これおもろいよな　俺は「Astroの初期準備だけして♡」ってしたらLLMこのファイル書いたまま放置してやんの
+
 ```sh
 npm create astro@latest -- --template basics
 ```
